@@ -10,9 +10,69 @@ The labs finish with a 20 minute interview with a teaching assistant in the lab.
 
 For each lab assignment, each student will turn in a lab report, due at the time of the checkoff. Since it is essential that all data and conclusions are available at the time of your checkoff, late lab reports will not generally be accepted.
 
-| LABS | TOPICS | SUPPLEMENTAL MATERIALS |
-| --- | --- | --- |
-| Lab 1 | Sampling Phenomena ([PDF]({{< baseurl >}}/resources/lab1)) |  |
-| Lab 2 | Direct Discrete-Time Frequency-Domain-Based Design ([PDF]({{< baseurl >}}/resources/lab2)) |  |
-| Design Problem | Design of a MIMO Controller via Classical Techniques ([PDF]({{< baseurl >}}/resources/designproblem06)) | Biernson, G. "A Servo for Integrated-Circuit Photolithography." Chapter 15 in _Principles of Feedback Control._ Vol. 2. New York, NY: John Wiley & Sons, 1988. ISBN: 9780471501206. |
-| Final Design Project | Laser Light Show with X-Y Beam Scanner ([PDF]({{< baseurl >}}/resources/scanner06)) | Additional Design Details (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/scanner06_update))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LABS
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+SUPPLEMENTAL MATERIALS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 1
+{{< tdclose >}}
+{{< tdopen >}}
+Sampling Phenomena ([PDF]({{< baseurl >}}/resources/lab1))
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 2
+{{< tdclose >}}
+{{< tdopen >}}
+Direct Discrete-Time Frequency-Domain-Based Design ([PDF]({{< baseurl >}}/resources/lab2))
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Design Problem
+{{< tdclose >}}
+{{< tdopen >}}
+Design of a MIMO Controller via Classical Techniques ([PDF]({{< baseurl >}}/resources/designproblem06))
+{{< tdclose >}}
+{{< tdopen >}}
+Biernson, G. "A Servo for Integrated-Circuit Photolithography." Chapter 15 in _Principles of Feedback Control._ Vol. 2. New York, NY: John Wiley & Sons, 1988. ISBN: 9780471501206.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Design Project
+{{< tdclose >}}
+{{< tdopen >}}
+Laser Light Show with X-Y Beam Scanner ([PDF]({{< baseurl >}}/resources/scanner06))
+{{< tdclose >}}
+{{< tdopen >}}
+Additional Design Details (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/scanner06_update))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

@@ -39,31 +39,227 @@ We will be using MATLAB® and Simulink® on both MIT servers and on the lab PCs,
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Problem Sets | 20% |
-| Laboratory Assignments | 20% |
-| Two Quizzes | 25% |
-| Final | 35% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Sets
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Laboratory Assignments
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two Quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Late problem sets will not be accepted. The quizzes and final are closed-book. However, in the exams, one or two crib sheets will be permitted. The two quizzes will be held in-class during Lec #12 and Lec #21. The final exam will occur during the regular final examination period, as scheduled by the registrar. The final will be 3 hours in length.
 
 Calendar
 --------
 
-| WEEK # | KEY DATES |
-| --- | --- |
-| 1 | Problem set 1 start |
-| 2 |  {{< br >}}{{< br >}} Problem set 1 due {{< br >}}{{< br >}} Problem set 2 start {{< br >}}{{< br >}}  |
-| 3 | Problem set 2 due |
-| 4 | Problem set 3 start |
-| 5 |  {{< br >}}{{< br >}} Problem set 3 due {{< br >}}{{< br >}} Problem set 4 start {{< br >}}{{< br >}} Lab 1 due {{< br >}}{{< br >}}  |
-| 6 |  {{< br >}}{{< br >}} Problem set 4 due {{< br >}}{{< br >}} Problem set 5 start {{< br >}}{{< br >}}  |
-| 7 | Problem set 5 due |
-| 8 | Lab 2 due |
-| 9 | Problem set 6 start |
-| 10 | Design Problem start |
-| 11 |  {{< br >}}{{< br >}} Problem set 6 due {{< br >}}{{< br >}} Design Problem due {{< br >}}{{< br >}}  |
-| 12 | Final Design Project start |
-| 13 | Final Design Project midpoint checkoffs |
-| 14 | Final Design Project due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 start
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 1 due
+
+Problem set 2 start
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 3 start
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 3 due
+
+Problem set 4 start
+
+Lab 1 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 4 due
+
+Problem set 5 start
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 6 start
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Design Problem start
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 6 due
+
+Design Problem due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Final Design Project start
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Final Design Project midpoint checkoffs
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Final Design Project due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
