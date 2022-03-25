@@ -70,7 +70,7 @@ Final Design Project
 Laser Light Show with X-Y Beam Scanner ([PDF]({{< baseurl >}}/resources/scanner06))
 {{< tdclose >}}
 {{< tdopen >}}
-Additional Design Details (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/scanner06_update))
+Additional Design Details ([PDF]({{< baseurl >}}/resources/scanner06_update))
 {{< tdclose >}}
 
 {{< trclose >}}
